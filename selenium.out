@@ -1,0 +1,18 @@
+2017-12-08 02:20:30 INFO  Testbase:46 - log4j is registered
+2017-12-08 02:20:30 INFO  Testbase:54 - loading config files
+2017-12-08 02:20:30 INFO  Register_Stepdefnition:49 - customer clicks on new customer for registration
+2017-12-08 02:20:31 INFO  Register_Stepdefnition:55 - customer selects title
+2017-12-08 02:20:31 INFO  Register_Stepdefnition:61 - firstname entered
+2017-12-08 02:20:31 INFO  Register_Stepdefnition:67 - lastname entered
+2017-12-08 02:20:31 INFO  Register_Stepdefnition:73 - emailid entered
+2017-12-08 02:20:32 INFO  Register_Stepdefnition:79 - password entered
+2017-12-08 02:20:32 INFO  Register_Stepdefnition:85 - password hint entered
+2017-12-08 02:20:32 INFO  Register_Stepdefnition:91 - date of birth entered
+2017-12-08 02:20:32 INFO  Register_Stepdefnition:97 - contact number entered
+2017-12-08 02:20:33 INFO  Register_Stepdefnition:103 - house no. entered
+2017-12-08 02:20:33 INFO  Register_Stepdefnition:109 - entered postcode
+2017-12-08 02:20:33 INFO  Register_Stepdefnition:111 - clicked on search button
+2017-12-08 02:20:33 INFO  Register_Stepdefnition:118 - clicked on next directory option
+2017-12-08 02:20:33 INFO  Registerpage:108 - clickin on :
+2017-12-08 02:20:34 INFO  Register_Stepdefnition:124 - selected check button
+2017-12-08 02:20:35 INFO  Register_Stepdefnition:130 - clicked on signin button
