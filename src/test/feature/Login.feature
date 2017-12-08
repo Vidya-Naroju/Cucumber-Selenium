@@ -12,6 +12,6 @@ Feature: Login into application valid and invalid user
 
  
   Scenario: Login succesfully
-    And user enters valid emailadress "vidya.naroju@gmail.com" and  password "chinna89"
+    And user enters valid emailadress "use_ur_ID@gmail.com" and  password "password"
     Then user clicks on sigin Button
     Then login should be succesfull
